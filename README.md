@@ -2,7 +2,7 @@
 
 Ein umfassendes Stromausfall-System für FiveM, das dynamische Blackouts in konfigurierbaren Zonen ermöglicht . Spieler können Generatoren sabotieren oder reparieren – mit immersiven visuellen Effekten und vollständiger Framework-Integration .
 
-![HM_BLACKOUT Banner](banner.png)
+![alt text](https://s1.directupload.eu/images/260117/s7ygcb82.png)
 
 ## 🎯 Überblick
 
